@@ -1,4 +1,0 @@
-upgrade
-requests
-rsa
-python-dateutil
